@@ -1,0 +1,27 @@
+{
+  "name": "pcattest",
+  "version": "1.0.0",
+  "description": "PCAt deneme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeynepNurDilek/pcattest.git"
+  },
+  "author": "Zna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeynepNurDilek/pcattest/issues"
+  },
+  "homepage": "https://github.com/ZeynepNurDilek/pcattest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14",
+    "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
